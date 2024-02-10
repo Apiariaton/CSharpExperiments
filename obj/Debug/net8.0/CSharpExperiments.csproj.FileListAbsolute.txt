@@ -1,0 +1,17 @@
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\CSharpExperiments.exe
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\CSharpExperiments.deps.json
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\CSharpExperiments.runtimeconfig.json
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\CSharpExperiments.dll
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\CSharpExperiments.pdb
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.AssemblyInfoInputs.cache
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.AssemblyInfo.cs
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.csproj.CoreCompileInputs.cache
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.dll
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\refint\CSharpExperiments.dll
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.pdb
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.genruntimeconfig.cache
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\ref\CSharpExperiments.dll
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.csproj.AssemblyReference.cache
+C:\Users\willi\CSharpExperiments\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\willi\CSharpExperiments\obj\Debug\net8.0\CSharpExperiments.csproj.CopyComplete
